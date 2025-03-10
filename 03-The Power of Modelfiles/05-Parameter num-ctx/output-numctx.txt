@@ -1,0 +1,76 @@
+===== TEST WITH num_ctx = 256 (Forgetful) =====
+User: Hello, my name is Yosra.
+Model: Hi Yosra! It's nice to meet you. Is there something I can help you with
+User: Benny was a little bunny who loved to explore the forest. Every morning, he hopped around, looking for new adventures. He enjoyed the fresh air, the rustling leaves, and the soft earth beneath his paws.
+
+    One day, Benny found a shiny red apple under a big oak tree. He was so happy! But just as he was about to take a bite, a gust of wind rolled the apple down a hill.
+
+    "Oh no!" Benny cried and ran after it.
+    little one. And remember, sometimes a little adventure makes things even sweeter.
+Model: It seems like I cut off your story prematurely! Please feel free to continue sharing about Benny's adventures
+User: What's my name?
+Model: Your name is Yosra.
+User: Benny was a little bunny who loved to explore the forest. Every morning, he hopped around, looking for new adventures. He enjoyed the fresh air, the rustling leaves, and the soft earth beneath his paws.
+
+    One day, Benny found a shiny red apple under a big oak tree. He was so happy! But just as he was about to take a bite, a gust of wind rolled the apple down a hill.
+
+    "Oh no!" Benny cried and ran after it.
+
+    The apple rolled faster and faster. Benny hopped as quickly as he could, but the apple was too fast. It rolled into a small cave at the bottom of the hill.
+
+    Benny stopped outside the cave. It was dark inside, and he felt a little scared. But he really wanted his apple. So, he took a deep breath and stepped inside.
+
+    Inside the cave, Benny saw glowing fireflies lighting up the walls. Their tiny lights flickered like stars, making the cave look magical. In the middle of the cave sat a friendly old turtle, wearing a small pair of glasses.
+
+    "Hello, little bunny," said the turtle with a warm smile. "Are you looking for something?"
+
+    "Yes!" Benny said. "My apple rolled in here."
+
+    The turtle chuckled. "Ah, I see! It stopped right by my shell."
+
+    He nudged the apple toward Benny. The bunny’s eyes lit up with joy.
+
+    "Thank you so much!" Benny said. 
+Model: Here is a rewritten version of the story:
+
+The walls of the cave began to glow, like a
+User: What's my name?
+Model: I don't know your name. This is the beginning of our conversation, and I don't have
+
+
+===== TEST WITH num_ctx = 1024 (Better Memory) =====
+User: Hello, my name is Yosra.
+Model: Hello Yosra! It's nice to meet you. Is there something I can help you with
+User: Benny was a little bunny who loved to explore the forest. Every morning, he hopped around, looking for new adventures. He enjoyed the fresh air, the rustling leaves, and the soft earth beneath his paws.
+
+    One day, Benny found a shiny red apple under a big oak tree. He was so happy! But just as he was about to take a bite, a gust of wind rolled the apple down a hill.
+
+    "Oh no!" Benny cried and ran after it.
+    little one. And remember, sometimes a little adventure makes things even sweeter.
+Model: That's quite a story about Benny the bunny! It sounds like he had a thrilling experience chasing after
+User: What's my name?
+Model: Your name is Yosra. We met earlier and started talking about Benny the bunny's adventure.
+User: Benny was a little bunny who loved to explore the forest. Every morning, he hopped around, looking for new adventures. He enjoyed the fresh air, the rustling leaves, and the soft earth beneath his paws.
+
+    One day, Benny found a shiny red apple under a big oak tree. He was so happy! But just as he was about to take a bite, a gust of wind rolled the apple down a hill.
+
+    "Oh no!" Benny cried and ran after it.
+
+    The apple rolled faster and faster. Benny hopped as quickly as he could, but the apple was too fast. It rolled into a small cave at the bottom of the hill.
+
+    Benny stopped outside the cave. It was dark inside, and he felt a little scared. But he really wanted his apple. So, he took a deep breath and stepped inside.
+
+    Inside the cave, Benny saw glowing fireflies lighting up the walls. Their tiny lights flickered like stars, making the cave look magical. In the middle of the cave sat a friendly old turtle, wearing a small pair of glasses.
+
+    "Hello, little bunny," said the turtle with a warm smile. "Are you looking for something?"
+
+    "Yes!" Benny said. "My apple rolled in here."
+
+    The turtle chuckled. "Ah, I see! It stopped right by my shell."
+
+    He nudged the apple toward Benny. The bunny’s eyes lit up with joy.
+
+    "Thank you so much!" Benny said. 
+Model: I think we got to the end of the story about Benny and his adventure in the cave. It
+User: What's my name?
+Model: Your name is Yosra! We've been chatting about Benny the bunny's exciting adventure together.

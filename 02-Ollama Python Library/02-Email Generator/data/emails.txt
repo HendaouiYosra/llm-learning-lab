@@ -1,0 +1,69 @@
+*****Email 1: Aymax - SAP****
+
+Dear Hiring Manager at Aymax,
+
+I am writing to express my interest in a SAP internship opportunity at Aymax. With a strong foundation in SAP technology, I am confident that I would be an excellent fit for your team.
+
+Throughout my academic and professional journey, I have developed a deep understanding of SAP solutions, including data management, reporting, and system integration. My proficiency in SAP has been demonstrated through various projects and certifications, which have allowed me to effectively implement and optimize business processes.
+
+Some of the key tools and technologies that I master include:
+
+* SAP ERP
+* SAP CRM
+* ABAP programming language
+* SAP BusinessObjects
+
+I am excited about the prospect of joining Aymax and contributing my skills and experience to drive success in your organization.
+
+Thank you for considering my application. I look forward to discussing this opportunity further.
+
+Best regards,
+Yosra Hindaoui
+
+*****NEXT EMAIL****
+
+*****Email 2: Telnet - Front end development****
+
+Dear Hiring Manager at Telnet,
+
+I am writing to express my interest in a front-end development internship opportunity at Telnet. As a highly motivated and detail-oriented individual, I am confident that I would be an excellent fit for your team.
+
+Throughout my academic journey, I have developed a solid foundation in front-end development, with expertise in HTML5, CSS3, JavaScript, and React.js. My proficiency in these technologies has been demonstrated through various personal projects and contributions to open-source initiatives.
+
+Some of the key tools and technologies that I master include:
+
+* React.js
+* Node.js
+* Express.js
+* HTML5/CSS3
+
+I am excited about the prospect of joining Telnet and contributing my skills and experience to drive success in your organization.
+
+Thank you for considering my application. I look forward to discussing this opportunity further.
+
+Best regards,
+Yosra Hindaoui
+
+*****NEXT EMAIL****
+
+*****Email 3: Sofrecom - LLM****
+
+Dear Hiring Manager at Sofrecom,
+
+I am writing to express my interest in a Large Language Model (LLM) internship opportunity at Sofrecom. As a highly motivated and detail-oriented individual, I am confident that I would be an excellent fit for your team.
+
+Throughout my academic journey, I have developed a solid foundation in LLMs, with expertise in natural language processing, machine learning, and deep learning. My proficiency in these technologies has been demonstrated through various research papers and projects, which have allowed me to effectively develop and implement innovative NLP models.
+
+Some of the key tools and technologies that I master include:
+
+* Transformers
+* BERT
+* RoBERTa
+* PyTorch
+
+I am excited about the prospect of joining Sofrecom and contributing my skills and experience to drive success in your organization.
+
+Thank you for considering my application. I look forward to discussing this opportunity further.
+
+Best regards,
+Yosra Hindaoui

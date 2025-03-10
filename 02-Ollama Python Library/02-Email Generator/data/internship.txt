@@ -1,0 +1,3 @@
+Aymax : SAP 
+Telnet : Frontend development
+Sofrecom : LLM
